@@ -1,6 +1,5 @@
 import React from 'react';
 import  './styles.scss';
-//import myImage from '../../images/IMG_0388.JPG';
 class AboutPage extends React.Component{
 	render(){
 		return(
