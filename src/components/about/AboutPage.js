@@ -5,7 +5,7 @@ class AboutPage extends React.Component{
 		return(
 				<div className="container-fluid about-page">
 					<div className="content-grid">
-						<h1 className="aboutTitle">ABOUT Me</h1>
+						<h1 className="aboutTitle">ABOUT SS</h1>
 						<div className="about-wrapper">
 							<div className="row">
 								<div className="col-md-5">
