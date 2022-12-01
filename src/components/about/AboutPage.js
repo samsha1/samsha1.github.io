@@ -19,6 +19,7 @@ class AboutPage extends React.Component{
 								<div className="col-md-7">
 									<div className="about-content">
 										<p> Under Construction!</p>
+									</div>
 								</div>
 							</div>
 						</div>
