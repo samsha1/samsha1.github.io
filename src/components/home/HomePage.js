@@ -14,7 +14,7 @@ class HomePage extends React.Component{
 					<a
 						target="_blank"
 						rel="noopener noreferrer"
-						href="https://pdfhost.io/v/3YbsMfG5V_oct26resume"
+						href="https://pdfhost.io/v/nizhQokPS_Samrat_Shakya_Resume"
 						style={{ textDecoration: 'none' }}
           			>
 					<Button variant="contained" size="large" color="primary">Get CV &nbsp; <CloudDownloadOutlinedIcon fontSize='small'/> </Button>
